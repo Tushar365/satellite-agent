@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venvScriptsalembic init alembic)",
+      "Bash(.venv/Scripts/python -m alembic init:*)"
+    ]
+  }
+}
